@@ -1,0 +1,90 @@
+*{
+    /* border: 1px solid red; */
+}
+body{
+    margin: 20px 60px 0 60px;
+    background-color: #e1e1e1;
+}
+ #main-header{
+     text-align: center;
+}
+#img{
+    width: 300px;
+}
+#des{
+    border: 1px  coral;
+    background-color: coral;
+    font-size: larger;
+    font-weight: bolder;
+    width: 300px;
+    text-align: center;
+    margin-left: 630px;
+}
+#menu{
+    font-style:  italic;
+}
+.menu-item {
+    color: blue; font-style:italic;
+}
+#click{
+    padding: 5px;
+}
+#head{
+    background-color: rgb(255, 255, 255);
+}
+.background{
+    background-color: rgb(138, 112, 163);
+}
+#btn1 {
+    margin: 10px;
+    padding: 10px 30px 10px 30px;
+    background-color: darkslateblue;
+    color: floralwhite;
+    font-weight: bold;
+}
+.highlight{
+    color: ;
+    font-style: italic;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 1px solid black;
+}
+.highlight{
+    background-color: whitesmoke;
+}
+#table_body{
+    border: 1px solid black;
+    background-color: rgb(133, 132, 132);
+}
+.with-gap{
+    color: black !important;
+}
+label{
+    color: rgb(0, 0, 0);
+}
+.col{
+    width: 40%;
+    color: black;
+}
+.error{
+    background-color: darkorange;
+    font-style: italic;
+    font-size: 2em;
+    font-weight: bold;
+    padding: 30px;
+}
+.success{
+    margin-top: 30px;
+    background-color: chartreuse;
+    font-style: italic;
+    font-size: 2em;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+}
+::placeholder {
+    color: red; 
+    opacity: 1;
+    font-size: larger;
+}    
